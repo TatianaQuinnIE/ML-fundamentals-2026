@@ -1,1 +1,1 @@
-# ML Fundamentals 2026 – Assignment 1
+# ML Fundamentals 2026
